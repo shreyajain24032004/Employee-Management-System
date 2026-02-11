@@ -22,13 +22,6 @@ Database: MySQL
 
 IDE: VS Code 
 
-📂 Project Structure
-EMS/
-│── src/
-│── database/
-│── README.md
-│── main files
-
 📌 Future Enhancements
 🕒 Attendance Management
 💳 Payroll System
